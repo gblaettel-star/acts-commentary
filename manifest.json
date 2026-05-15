@@ -1,0 +1,8 @@
+{
+  "name": "Acts Commentary",
+  "short_name": "Acts",
+  "start_url": "/acts-commentary/",
+  "display": "standalone",
+  "background_color": "#f8f9fc",
+  "theme_color": "#2c4a7c"
+}
